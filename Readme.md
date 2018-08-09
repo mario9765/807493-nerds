@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Иван Кельгеватов](https://up.htmlacademy.ru/htmlcss/22/user/807493).
-* Наставник: [Слава Милин][https://htmlacademy.ru/profile/id500603]
+* Наставник: [Слава Милин](https://htmlacademy.ru/profile/id500603)
 
 ---
 
